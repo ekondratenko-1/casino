@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0a9c51-6e9d-4b75-8727-8b0a2e5b8368" name="Changes" comment="каркас" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ekondratenko-1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ekondratenko-1/casino.git",
+    "accountId": "6dd3f981-ee0b-45d7-9f77-75d16f820cca"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3861915459419791" />
+      <entry key="MS500" value="2.9009065671074135" />
+      <entry key="S2" value="4.267113760460008" />
+      <entry key="S5" value="4.689762403235364" />
+      <entry key="S10" value="5.063555818577562" />
+      <entry key="S30" value="11.404556143977004" />
+      <entry key="S60" value="22.52180950200363" />
+      <entry key="M2" value="35.98478774095231" />
+      <entry key="M5" value="50.61908926412265" />
+      <entry key="M10" value="57.92679013993434" />
+      <entry key="M15" value="60.87976490965623" />
+      <entry key="M30" value="64.20265718547489" />
+      <entry key="H1" value="66.03410865834073" />
+      <entry key="H2" value="66.999115784415" />
+      <entry key="H4" value="67.49492136240485" />
+      <entry key="D1" value="67.91516286653035" />
+      <entry key="W1" value="67.98786413265245" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3365217013276385" />
+      <entry key="MS500" value="2.878048777914331" />
+      <entry key="S2" value="4.258365712518277" />
+      <entry key="S5" value="4.685881424179333" />
+      <entry key="S10" value="5.060923996874491" />
+      <entry key="S30" value="11.392077141545276" />
+      <entry key="S60" value="22.504943453851308" />
+      <entry key="M2" value="35.97070319630202" />
+      <entry key="M5" value="50.611381678288026" />
+      <entry key="M10" value="57.92250439497699" />
+      <entry key="M15" value="60.87680363404489" />
+      <entry key="M30" value="64.20112217738006" />
+      <entry key="H1" value="66.03332709220442" />
+      <entry key="H2" value="66.99872142345973" />
+      <entry key="H4" value="67.49472327940155" />
+      <entry key="D1" value="67.91512972664931" />
+      <entry key="W1" value="67.98785939528773" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3L9iuTHhVmwpKxS8S4oSRxIkChF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/egor/PycharmProjects/casino",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0a9c51-6e9d-4b75-8727-8b0a2e5b8368" name="Changes" comment="" />
+      <created>1792872906348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792872906348</updated>
+      <workItem from="1792872907361" duration="1433000" />
+    </task>
+    <task id="LOCAL-00001" summary="каркас">
+      <option name="closed" value="true" />
+      <created>1792872972351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792872972351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="каркас">
+      <option name="closed" value="true" />
+      <created>1792872983492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792872983492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="каркас" />
+    <option name="LAST_COMMIT_MESSAGE" value="каркас" />
+  </component>
+</project>
